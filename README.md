@@ -305,7 +305,7 @@ Distributed under the MIT License. Click [LICENSE.md](https://github.com/theakhi
 <!-- CONTACT -->
 ## Contact
 
-Akhin Abraham - [twitter.com/akhinabr](https://twitter.com/akhinabr) - theakhinabraham@gmail.com
+
 
 Repository Link: [https://github.com/theakhinabraham/doable-todo-list-app](https://github.com/theakhinabraham/doable-todo-list-app)
 
