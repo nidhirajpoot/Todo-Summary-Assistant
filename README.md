@@ -1,30 +1,7 @@
 <a name="readme-top"></a>
 <!-- PROJECT HEADER & LOGO -->
 <br />
-<div align="center">
-  <a href="https://github.com/theakhinabraham/doable-todo-list-app">
-    <img src="img/logo.png" alt="Logo" width="80" height="80">
-  </a>
 
-  <h3 align="center">Doable Todo List App</h3>
-
-  <p align="center">
-    💡 An offline Flutter todo list app using Dart & Hive Database with notification reminders & latest UI designs.
-    <br /> <br>
-    <a href="https://github.com/theakhinabraham/doable-todo-list-app/wiki"><strong>Explore the Documentations»</strong></a>
-    <br />
-    <a href="https://github.com/theakhinabraham/doable-todo-list-app/issues">Report Bugs</a>
-    ·
-    <a href="https://github.com/theakhinabraham/doable-todo-list-app/issues">Request Features</a>
-  </p>
-
-<a href="#">![GitHub repo size](https://img.shields.io/github/repo-size/theakhinabraham/doable-todo-list-app)
-<a href="https://github.com/theakhinabraham/doable-todo-list-app/issues">![GitHub contributors](https://img.shields.io/github/contributors/theakhinabraham/doable-todo-list-app)
-<a href="https://github.com/theakhinabraham/doable-todo-list-app">![GitHub stars](https://img.shields.io/github/stars/theakhinabraham/doable-todo-list-app?style=social)
-<a href="https://github.com/theakhinabraham/doable-todo-list-app">![GitHub forks](https://img.shields.io/github/forks/theakhinabraham/doable-todo-list-app?style=social)
-<a href="https://twitter.com/akhinabr">![Twitter Follow](https://img.shields.io/twitter/follow/akhinabr?style=social)</a>
-
-</div>
 
 <br>
 <br>
@@ -144,8 +121,6 @@ Steps to install code and app into your local device (and run app on emulator or
 <img src="/img/home-preview.png" style="height:75vh; width:auto;"> <img src="/img/add-task-preview.png" style="height:75vh; width:auto;"> <img src="/img/edit-task-preview.png" style="height:75vh; width:auto;"> <img src="/img/filter-preview.png" style="height:75vh; width:auto;"> <img src="/img/notification-preview.png" style="height:75vh; width:auto;">    
 </p>
 
-For more examples, please refer to the [Documentation](https://github.com/theakhinabraham/doable-todo-list-app/wiki)_
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
@@ -163,8 +138,8 @@ For more examples, please refer to the [Documentation](https://github.com/theakh
 - [ ] Add notificaion reminder (`reminder`)
 - [ ] Delete completed tasks at 12:00 am daily
 - [ ] Add search bar using `searchable_dropdown`
-
-See the [open issues](https://github.com/theakhinabraham/doable-todo-list-app/issues) for a full list of proposed features (and known issues).
+[
+See the [open issues]((https://github.com/nidhirajpoot/Todo-Summary-Assistant/tree/main)) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -292,22 +267,10 @@ git push origin HEAD
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-
-<!-- LICENSE -->
-## License
-
-Distributed under the MIT License. Click [LICENSE.md](https://github.com/theakhinabraham/doable-todo-list-app/blob/main/LICENSE.md) for more information.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
 <!-- CONTACT -->
 ## Contact
 
-
-
-Repository Link: [https://github.com/theakhinabraham/doable-todo-list-app](https://github.com/theakhinabraham/doable-todo-list-app)
+Repository Link: [https://github.com/nidhirajpoot/Todo-Summary-Assistant/tree/main)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
